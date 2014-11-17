@@ -117,7 +117,7 @@ At the very least your app should incorporate the following:
 
 ## Timeframe
 
-This project should take you 8-10 hours so complete.
+This project should take you the weekend to complete.
 
 ## Deploying
 

@@ -1,3 +1,8 @@
+---
+tags: sinatra, final project
+language: ruby
+---
+
 # Sinatra Final Project
 
 Now that we know how to build Sinatra applications, use ActiveRecord as an ORM, and render data on a page with ERB templating, let's put that all together to build your first stand-alone Sinatra app!

@@ -1,7 +1,4 @@
----
-tags: sinatra, final project
-language: ruby
----
+
 
 # Sinatra Final Project
 

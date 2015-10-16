@@ -1,5 +1,3 @@
-
-
 # Sinatra Final Project
 
 Now that we know how to build Sinatra applications, use ActiveRecord as an ORM, and render data on a page with ERB templating, let's put that all together to build your first stand-alone Sinatra app!
@@ -72,7 +70,7 @@ ActiveRecord::Base.establish_connection(
 )
 ```
 
-4. requring all (using the handy require_all gem) the files in the `/app` directory
+4. requiring all (using the handy require_all gem) the files in the `/app` directory
 
 
 ### `Rakefile`
@@ -125,7 +123,7 @@ This project should take you the weekend to complete.
 
 When you're done, think about deploying it to Heroku. Signing up is free, and deploying a Sinatra app is about as easy as pushing code to Github. 
 
-After you've downloaded the [Heroku Toolbelt](https://toolbelt.heroku.com/), make the app on your Heroku account, and add it as a remote link to your project's repository (just like Github). Then make sure everything is staged and commited, and then push it up.
+After you've downloaded the [Heroku Toolbelt](https://toolbelt.heroku.com/), make the app on your Heroku account, and add it as a remote link to your project's repository (just like Github). Then make sure everything is staged and committed, and then push it up.
 
 Check out this [quickguide](https://devcenter.heroku.com/articles/git) on deploying to Heroku.
 

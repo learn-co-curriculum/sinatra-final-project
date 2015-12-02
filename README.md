@@ -130,3 +130,5 @@ Check out this [quickguide](https://devcenter.heroku.com/articles/git) on deploy
 ## Bonus
 
 Spec it out! Use [Simplecov](https://github.com/colszowka/simplecov) to monitor your test coverage. At this point, you should be familiar with writing some tests and definitely passing them. Use the labs as guides for how to write tests.
+
+<a href='https://learn.co/lessons/sinatra-final-project' data-visibility='hidden'>View this lesson on Learn.co</a>
